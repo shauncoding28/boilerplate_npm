@@ -2,6 +2,7 @@
 	"author": "shauncoding28",
 	"name": "fcc-learn-npm-package-json",
 	"description": "A project that does something awesome",
+	"license": "MIT",
 	"keywords": [
 		"freecodecamp",
 		"coding",
